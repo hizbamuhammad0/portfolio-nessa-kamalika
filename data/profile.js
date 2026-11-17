@@ -55,15 +55,27 @@ window.PORTFOLIO_DATA = {
     {
       period: "Mar 2026 — Present",
       role: "Founder & Head of Operations",
-      company: "Pusat Herbal Indonesia (E-Commerce Store)",
+      company: "Pusat Herbal Indonesia & Asia (E-Commerce Store)",
       desc: "Founded and scaled an herbal health e-commerce store on Shopee to IDR 100,000,000 in revenue within the first 6 months, expanding to a 2nd branch (Pusat Herbal Asia). Executed domestic and cross-border Meta Ads driving ~IDR 300,000,000 in cumulative revenue, while maintaining a 92% chat response rate and 4.8/5.0 store rating."
     },
     // 💼 PROFESSIONAL EXPERIENCE
+    {
+      period: "Oct 2026 — Nov 2026",
+      role: "Digital Marketing Specialist (Freelance)",
+      company: "Grand Royal Property Development",
+      desc: "Architected and launched the official contractor and property land lot website on WordPress Elementor (grandroyalproperty.id) with integrated lead capture tracking. Directed ad creative video production and managed Meta Ads campaigns generating ~150 qualified property leads at an efficient IDR 35,000 CPL across DIY & Central Java, while handling client profiling and on-site surveys."
+    },
     {
       period: "Jul 2026 — Sep 2026",
       role: "Digital Advertiser (Agency)",
       company: "CV. Hasbuna Artha Niaga",
       desc: "Managed multi-channel advertising for 7 client brands across fashion, F&B, herbal, and packaging sectors. Scaled Marketplace Ads and TikTok Ads (GMV Max) campaigns from scratch, maintaining stable 3.5x ROAS in alignment with brand KPI projections."
+    },
+    {
+      period: "Jan 2026 — Oct 2026",
+      role: "Digital Advertiser (WFH) & Data Operations",
+      company: "Chefpreneur Vania Wijaya",
+      desc: "Executed digital marketing strategies via Meta Ads, TikTok Ads, and Marketplace Ads (Shopee & Tokopedia) for culinary brands (Hap Hap Snack, Kesukaan Mama, and Recipe Books), delivering a 30% new customer acquisition lift and maintaining 3.5x–5.0x ROAS via selective scaling. Managed daily processing of 30–50 customer orders with 95% data validation accuracy."
     },
     {
       period: "Dec 2025 — Feb 2026",
@@ -252,6 +264,57 @@ window.PORTFOLIO_DATA = {
     // =========================================================================
     // 🚀 PERFORMANCE MARKETING & PAID ADVERTISING
     // =========================================================================
+    {
+      id: "ads-grand-royal-web",
+      category: "ads",
+      featured: true,
+      title: "Official Contractor & Real Estate Landing Page — Grand Royal Property",
+      subtitle: "Grand Royal Property Development • Web Development & Funnel",
+      metrics: "WordPress Elementor • Integrated Lead Database",
+      description: "Designed, developed, and deployed the official contractor website and ready-to-build property land lot showcase using WordPress Elementor (grandroyalproperty.id), seamlessly integrating conversion forms directly with database lead tracking.",
+      image: "assets/images/Grand_Royal_Landing_Page_Banner.jpg",
+      tags: ["WordPress Elementor", "Landing Page", "Lead Database", "Real Estate Funnel"],
+      links: [
+        {
+          type: "website",
+          publisher: "Grand Royal Property Official Site",
+          title: "Grand Royal Property Development — Bangun dan Renovasi Rumah",
+          url: "https://grandroyalproperty.id/grand-royal-property-development-bangun-dan-renovasi-rumah/"
+        }
+      ]
+    },
+    {
+      id: "ads-grand-royal-leadgen",
+      category: "ads",
+      featured: true,
+      title: "Real Estate Meta Ads & Lead Acquisition (~150 Leads at IDR 35k CPL)",
+      subtitle: "Grand Royal Property Development • Performance Advertising",
+      metrics: "~150 Leads • IDR 35,000 CPL • IDR 5M Budget",
+      description: "Managed Meta Ads campaigns with an IDR 5,000,000 monthly ad spend across 4 property categories in DIY and Central Java. Targeted high-income audiences and refined creatives to acquire ~150 high-intent leads at an efficient IDR 35,000 CPL.",
+      image: "assets/images/Grand_Royal_ID_Card_Nessa_Kamalika.jpeg",
+      tags: ["Meta Ads", "Real Estate Lead Gen", "CPL IDR 35k", "Audience Targeting"]
+    },
+    {
+      id: "cs-grand-royal-survey",
+      category: "cs",
+      featured: true,
+      title: "Client Profiling & On-Site Property Surveys",
+      subtitle: "Grand Royal Property Development • Consultation & Field Verification",
+      metrics: "Client Profiling Forms • 2 Direct Architecture Closings",
+      description: "Managed prospective client intake directly through Form Profiling Client assessments, mapping building budgets, requirements, and land specifications. Coordinated on-site physical surveys, guiding 2 clients into active architectural design contracts.",
+      image: "assets/images/Grand_Royal_Survey_Form_Profiling_Client.jpeg",
+      tags: ["Client Profiling", "Site Survey", "Consultative CS", "Land Inspection"]
+    },
+    {
+      id: "ads-grand-royal-creative",
+      category: "ads",
+      title: "Field Video Creative Direction & Architect Collaboration",
+      subtitle: "Grand Royal Property Development & Archira • Creative Production",
+      metrics: "High CTR Video Angles • Construction Progress",
+      description: "Directed creative teams and videographers in producing targeted paid ad video content, capturing genuine construction site progress, visual hooks, and architect collaboration to optimize ad relevance and click-through rates.",
+      image: "assets/images/Grand_Royal_Team_Dokumentasi.jpeg",
+      tags: ["Creative Direction", "Video Ads Hook", "CTR Optimization", "Team Leadership"]
+    },
     {
       id: "ads-1",
       category: "ads",
@@ -682,7 +745,7 @@ window.PORTFOLIO_DATA = {
     {
       category: "Growth & Paid Advertising",
       icon: "trending-up",
-      items: ["Meta Ads Manager", "Shopee Ads", "TikTok Ads (GMV Max)", "Multi-Channel Scaling", "A/B Creative Testing", "Audience Segmentation", "ROAS Optimization"]
+      items: ["Meta Ads Manager", "Shopee Ads", "TikTok Ads (GMV Max)", "WordPress Elementor Funnel", "Real Estate Lead Gen", "Multi-Channel Scaling", "A/B Creative Testing", "Audience Segmentation", "ROAS Optimization"]
     },
     {
       category: "Customer Operations & Leadership",
